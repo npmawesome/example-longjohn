@@ -1,0 +1,10 @@
+{
+  "name": "example-longjohn",
+  "scripts": {
+    "test": "node plain && node longjohn"
+  },
+  "dependencies": {
+    "longjohn": "^0.2.4",
+    "chalk": "^0.4.0"
+  }
+}
